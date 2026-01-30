@@ -19,6 +19,7 @@ npx skills add wondelai/skills/scorecard-marketing
 npx skills add wondelai/skills/storybrand-messaging
 npx skills add wondelai/skills/hooked-ux
 npx skills add wondelai/skills/ux-heuristics
+npx skills add wondelai/skills/web-typography
 ```
 
 ## Available Skills
@@ -33,6 +34,7 @@ npx skills add wondelai/skills/ux-heuristics
 | storybrand-messaging | Clear brand messaging using story structure | [Donald Miller](https://x.com/donlonemiller)'s [*"Building a StoryBrand"*](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329?tag=wondelai00-20) |
 | hooked-ux | Habit-forming product design | [Nir Eyal](https://x.com/naboreeyal)'s [*"Hooked"*](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788?tag=wondelai00-20) |
 | ux-heuristics | Usability evaluation and principles | [Steve Krug](https://x.com/skrug)'s [*"Don't Make Me Think"*](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515?tag=wondelai00-20) & [Jakob Nielsen](https://x.com/nngroup)'s [10 Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) |
+| web-typography | Web typography principles and implementation | [Jason Santa Maria](https://x.com/jasonsantamaria)'s [*"On Web Typography"*](https://www.amazon.com/Web-Typography-Jason-Santa-Maria/dp/1937557065?tag=wondelai00-20) |
 
 ---
 
@@ -229,6 +231,30 @@ Usability heuristics and evaluation principles combining Steve Krug's practical 
 
 ---
 
+### web-typography
+
+Web typography principles for choosing, pairing, and implementing typefaces. Typography serves communication—the best typography is invisible, immersing readers in content rather than calling attention to itself.
+
+**About the author:** [Jason Santa Maria](https://x.com/jasonsantamaria) is a graphic designer, author, and educator whose work focuses on the intersection of design and technology. He has worked with clients including The New York Times, AIGA, and Happy Cog. Santa Maria was Creative Director at Typekit (now Adobe Fonts) and co-founded A Book Apart, the influential publisher of books for web professionals. He teaches at the School of Visual Arts in New York. [*"On Web Typography"*](https://www.amazon.com/Web-Typography-Jason-Santa-Maria/dp/1937557065?tag=wondelai00-20), published by A Book Apart in 2014, distills his expertise into a practical guide for choosing, evaluating, and implementing type on the web.
+
+**Use when you need to:**
+- Select typefaces for body text, headlines, and UI
+- Evaluate typeface quality for screen readability
+- Pair fonts that work together (or decide to use just one)
+- Set optimal line length, line height, and font size
+- Implement responsive typography with CSS
+- Build type hierarchies that guide readers
+- Optimize web font loading for performance
+
+**Example prompts:**
+- *"Recommend a typeface pairing for a legal services website. Use web-typography skill."*
+- *"Evaluate if this Google Font is suitable for long-form reading. Use web-typography skill."*
+- *"Set up a fluid type scale using clamp() for responsive typography. Use web-typography skill."*
+- *"What's wrong with the typography on this blog post? The text feels hard to read. Use web-typography skill."*
+- *"Create CSS for optimal body text: font-size, line-height, and max-width. Use web-typography skill."*
+
+---
+
 ## Copyright & Disclaimer
 
 The methodologies and frameworks referenced in these skills are the intellectual property of their respective authors and publishers. All copyrights belong to:
@@ -242,6 +268,7 @@ The methodologies and frameworks referenced in these skills are the intellectual
 - **Hooked**: Nir Eyal
 - **Don't Make Me Think**: Steve Krug
 - **10 Usability Heuristics**: Jakob Nielsen (Nielsen Norman Group)
+- **On Web Typography**: Jason Santa Maria
 
 These skills were created without directly copying or reproducing content from the original books or materials. They are based on:
 - Publicly available information about the methodologies
