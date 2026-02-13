@@ -1,5 +1,5 @@
 ---
-name: ios-hig-design
+name: projektowanie-ios
 description: 'Design native iOS apps following Apple''s Human Interface Guidelines. Use this skill when building iPhone/iPad interfaces, creating SwiftUI/UIKit components, validating iOS design compliance, or ensuring accessibility. Covers layout, typography, navigation, components, gestures, colors, and platform conventions.'
 license: MIT
 metadata:

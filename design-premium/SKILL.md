@@ -1,5 +1,5 @@
 ---
-name: top-design
+name: design-premium
 description: >
   Create award-winning websites and applications with design and typography rated 10/10.
   Use this skill when building premium digital experiences that match the quality of elite

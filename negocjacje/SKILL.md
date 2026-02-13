@@ -1,5 +1,5 @@
 ---
-name: negotiation
+name: negocjacje
 description: Tactical negotiation framework based on Chris Voss's "Never Split the Difference." Use when preparing for negotiations, during live negotiation scenarios, analyzing counterpart behavior, crafting responses to difficult conversations, handling objections, salary/contract negotiations, or when asked about negotiation techniques like mirroring, labeling, calibrated questions, or the Ackerman method.
 license: MIT
 metadata:
