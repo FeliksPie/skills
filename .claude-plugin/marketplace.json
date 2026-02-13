@@ -15,7 +15,7 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./jobs-to-be-done"
+        "./potrzeby-klientow"
       ]
     },
     {
@@ -24,12 +24,12 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./refactoring-ui",
-        "./ios-hig-design",
-        "./ux-heuristics",
-        "./hooked-ux",
-        "./web-typography",
-        "./top-design"
+        "./ulepszanie-interfejsu",
+        "./projektowanie-ios",
+        "./audyt-uzytecznosci",
+        "./budowanie-nawykow",
+        "./typografia-webowa",
+        "./design-premium"
       ]
     },
     {
@@ -38,9 +38,10 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./cro-methodology",
-        "./storybrand-messaging",
-        "./scorecard-marketing"
+        "./optymalizacja-konwersji",
+        "./przekaz-marki",
+        "./generowanie-leadow",
+        "./negocjacje"
       ]
     }
   ]
